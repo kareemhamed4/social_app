@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275801487227",
+    "project_id": "social-jet-x",
+    "storage_bucket": "social-jet-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275801487227:android:1aaebb55cc5d30c4dfefde",
+        "android_client_info": {
+          "package_name": "com.example.socialjetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275801487227-g8id8tcm87t7pm1lhcugn606qs0g8udt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialjetx",
+            "certificate_hash": "6b04130ebdce582c56f975f1eef77c94045a9767"
+          }
+        },
+        {
+          "client_id": "275801487227-3q98cbin3dqig3s3fbejthj3epu863au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqeCVhpwCajQRmphGYq-t8H2AQn_s1ZG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275801487227-3q98cbin3dqig3s3fbejthj3epu863au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
